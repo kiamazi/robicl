@@ -1,0 +1,12 @@
+[package]
+name    = "rubicl"
+version = "0.1.0"
+authors = ["kiavash <kiavash@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+chrono    = "0.4.10"
+geo-svg   = "0.2.3"
+geo-types = "0.4.3"
+base64    = "0.11.0"
+
