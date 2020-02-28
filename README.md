@@ -6,4 +6,4 @@ Shows a simple binary clock in the Gnome panel. Uses the wonderful [Argos](https
 ![rubicl](rubicl.png)
 
 ## Installation
-Copy ```rubicl.1s.argos``` to ```~/.config/argos``` and grant it execution permission (```chmod +x ~/.config/argos/mfa.5s.sh```).
+Copy ```rubicl.1s.argos``` to ```~/.config/argos``` and grant it execution permission (```chmod +x ~/.config/argos/rubicl.1s.argos```).
